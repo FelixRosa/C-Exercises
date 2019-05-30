@@ -1,0 +1,11 @@
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/bin/Debug/netcoreapp2.2/Exercise 5 - Files.deps.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/bin/Debug/netcoreapp2.2/Exercise 5 - Files.runtimeconfig.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/bin/Debug/netcoreapp2.2/Exercise 5 - Files.runtimeconfig.dev.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/bin/Debug/netcoreapp2.2/Exercise 5 - Files.dll
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/bin/Debug/netcoreapp2.2/Exercise 5 - Files.pdb
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/obj/Debug/netcoreapp2.2/Exercise 5 - Files.csprojAssemblyReference.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/obj/Debug/netcoreapp2.2/Exercise 5 - Files.csproj.CoreCompileInputs.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/obj/Debug/netcoreapp2.2/Exercise 5 - Files.AssemblyInfoInputs.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/obj/Debug/netcoreapp2.2/Exercise 5 - Files.AssemblyInfo.cs
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/obj/Debug/netcoreapp2.2/Exercise 5 - Files.dll
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/obj/Debug/netcoreapp2.2/Exercise 5 - Files.pdb
