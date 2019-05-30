@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1 - Control Flow", "Exercise 1 - Control Flow\Exercise 1 - Control Flow.csproj", "{AA8A2FF3-3195-467F-94BE-6FFF43F2E623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2 - Loops", "Exercise 2 - Loops\Exercise 2 - Loops.csproj", "{11A1B25D-CA40-4153-97EC-1B5046D78CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8A2FF3-3195-467F-94BE-6FFF43F2E623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8A2FF3-3195-467F-94BE-6FFF43F2E623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8A2FF3-3195-467F-94BE-6FFF43F2E623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8A2FF3-3195-467F-94BE-6FFF43F2E623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A1B25D-CA40-4153-97EC-1B5046D78CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A1B25D-CA40-4153-97EC-1B5046D78CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A1B25D-CA40-4153-97EC-1B5046D78CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A1B25D-CA40-4153-97EC-1B5046D78CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

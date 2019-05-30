@@ -1,0 +1,11 @@
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/bin/Debug/netcoreapp2.2/Exercise 1 - Control Flow.deps.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/bin/Debug/netcoreapp2.2/Exercise 1 - Control Flow.runtimeconfig.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/bin/Debug/netcoreapp2.2/Exercise 1 - Control Flow.runtimeconfig.dev.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/bin/Debug/netcoreapp2.2/Exercise 1 - Control Flow.dll
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/bin/Debug/netcoreapp2.2/Exercise 1 - Control Flow.pdb
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/obj/Debug/netcoreapp2.2/Exercise 1 - Control Flow.csprojAssemblyReference.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/obj/Debug/netcoreapp2.2/Exercise 1 - Control Flow.csproj.CoreCompileInputs.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/obj/Debug/netcoreapp2.2/Exercise 1 - Control Flow.AssemblyInfoInputs.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/obj/Debug/netcoreapp2.2/Exercise 1 - Control Flow.AssemblyInfo.cs
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/obj/Debug/netcoreapp2.2/Exercise 1 - Control Flow.dll
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 1 - Control Flow/obj/Debug/netcoreapp2.2/Exercise 1 - Control Flow.pdb
