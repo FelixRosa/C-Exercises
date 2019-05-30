@@ -1,0 +1,11 @@
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/bin/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.deps.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/bin/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.runtimeconfig.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/bin/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.runtimeconfig.dev.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/bin/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.dll
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/bin/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.pdb
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/obj/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.csprojAssemblyReference.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/obj/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.csproj.CoreCompileInputs.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/obj/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.AssemblyInfoInputs.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/obj/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.AssemblyInfo.cs
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/obj/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.dll
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 4 - String and StringBuilder/obj/Debug/netcoreapp2.2/Exercise 4 - String and StringBuilder.pdb
