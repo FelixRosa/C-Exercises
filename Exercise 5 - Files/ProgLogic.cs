@@ -12,8 +12,10 @@ namespace Exercise_5___Files
             //var fileText = File.ReadAllText(path);
             var fileText = File.ReadAllText(path);
             var words = fileText.ToString().Split(" ");
-            //Only necessray with .rft files - skips the settings
-            words = words.Skip(3).ToArray();
+            if (path.Contains(".rtf"))
+            {
+                words = words.Skip(3).ToArray();
+            }
             return String.Format("Amount of Words: {0}", words.Length);
         }
 
@@ -22,8 +24,10 @@ namespace Exercise_5___Files
         {
             var fileText = File.ReadAllText(path);
             var parsedFile = fileText.ToString().Split(" ");
-            parsedFile = parsedFile.Skip(3).ToArray();
-            //Only necessray with .rft files - skips the settings
+            if (path.Contains(".rtf"))
+            {
+                parsedFile = parsedFile.Skip(3).ToArray();
+            }
             var longestWord = parsedFile[0];
             foreach (var word in parsedFile)
             {
