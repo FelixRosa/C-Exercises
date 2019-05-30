@@ -1,0 +1,11 @@
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/bin/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.deps.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/bin/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.runtimeconfig.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/bin/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.runtimeconfig.dev.json
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/bin/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.dll
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/bin/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.pdb
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/obj/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.csprojAssemblyReference.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/obj/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.csproj.CoreCompileInputs.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/obj/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.AssemblyInfoInputs.cache
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/obj/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.AssemblyInfo.cs
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/obj/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.dll
+/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 3 - Arrays and Lists/obj/Debug/netcoreapp2.2/Exercise 3 - Arrays and Lists.pdb
