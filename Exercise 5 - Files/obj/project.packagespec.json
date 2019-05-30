@@ -1,0 +1,46 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/Exercise 5 - Files.csproj",
+    "projectName": "Exercise 5 - Files",
+    "projectPath": "/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/Exercise 5 - Files.csproj",
+    "outputPath": "/Users/felixrosa/RiderProjects/Exercise1 Control Flow/Exercise 5 - Files/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/Users/felixrosa/.dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
